@@ -8,6 +8,8 @@ pipeline {
       
       steps{
       
+        echo 'lkl'
+        
       }
       
     }
