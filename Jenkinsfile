@@ -8,7 +8,7 @@ pipeline {
       
       steps{
       
-        sh('docker --version')
+        sh 'docker --version'
         
       }
       
