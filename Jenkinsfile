@@ -8,7 +8,7 @@ pipeline {
       
       steps{
       
-        echo 'lkl'
+        docker --version
         
       }
       
